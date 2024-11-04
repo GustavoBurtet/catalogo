@@ -1,6 +1,6 @@
 body{
-    background: rgba(0, 245, 204, 0.74);
-    color:rgba(8, 245, 0, 0.74);
+    background: rgba(245, 0, 0, 0.74);
+    color:rgba(0, 0, 0, 0.74);
     margin: 0px;
 }
 header{
@@ -9,3 +9,5 @@ header{
     font-size: 32px;
     color: black
 }
+section{
+    background-color: aqua;
